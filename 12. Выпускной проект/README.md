@@ -24,3 +24,4 @@ https://public.tableau.com/app/profile/denis7928/viz/_16532295126480/Dashboard1?
 - Seaborn
 - Tableau
 - A/B-тестирование
+- проверка статистических гипотез
